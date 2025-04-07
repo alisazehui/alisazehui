@@ -6,7 +6,7 @@
 🔄 From debugging Python to picking up new tools on the fly — I adapt fast.
 🧠 Always up to learn something new — especially if it involves a challenge.  
 
-📍 Currently studying CS at UiO / Exchange at UC Berkeley | 🇳🇴 🇨🇳 🇬🇧  
+📍 Currently studying CS at UiO / Exchange at UC Berkeley
 
 
 <h3 align="left">Let's Connect!:</h3>
