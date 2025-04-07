@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alisa</h1>
 <h3 align="center">A passionate computer science student at University of Oslo / UC Berkeley</h3>
+🎓 CS student | 🌍 Trilingual
+
+💻 I build things with code, curiosity, and coffee.  
+🔄 From debugging Python to picking up new tools on the fly — I adapt fast.
+🧠 Always up to learn something new — especially if it involves a challenge.  
+
+📍 Currently studying CS at UiO / Exchange at UC Berkeley | 🇳🇴 🇨🇳 🇬🇧  
+💬 Let's connect: [LinkedIn](https://linkedin.com/in/alisa-tan-06527723a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
