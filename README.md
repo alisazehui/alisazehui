@@ -7,11 +7,11 @@
 🧠 Always up to learn something new — especially if it involves a challenge.  
 
 📍 Currently studying CS at UiO / Exchange at UC Berkeley | 🇳🇴 🇨🇳 🇬🇧  
-💬 Let's connect: [LinkedIn](https://linkedin.com/in/alisa-tan-06527723a)
 
-<h3 align="left">Connect with me:</h3>
+
+💬 <h3 align="left">Let's Connect!:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alisa tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisa tan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alisa-tan-06527723a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisa tan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
